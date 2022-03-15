@@ -1,3 +1,6 @@
+OneSignal is a free email, sms, push notification, and in-app message service for mobile apps.  Our best-in-class SDKs and Plugins enable you to quickly integrate OneSignal into your application.
+
+
 | Platform                                                                                 | Getting Started Guide                                                                                     | Type         | SDK/Plugin Listing                                                                                       |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------- |
 | [OneSignal Unity SDK](https://github.com/OneSignal/OneSignal-Unity-SDK)                  | [OneSignal Unity Setup](https://documentation.onesignal.com/docs/unity-sdk-setup)                         | Games SDK    | [Unity Asset Store](https://assetstore.unity.com/packages/add-ons/services/billing/onesignal-sdk-193316) |
