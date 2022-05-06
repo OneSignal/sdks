@@ -1,4 +1,4 @@
-OneSignal is a free email, sms, push notification, and in-app message service for mobile apps.  Our best-in-class SDKs and Plugins enable you to quickly integrate OneSignal into your application.
+OneSignal is a free email, sms, push notification, and in-app message service for apps & games.  Our best-in-class SDKs and Plugins enable you to quickly integrate OneSignal into your application.
 
 
 | Platform                                                                                 | Getting Started Guide                                                                                     | Type         | SDK/Plugin Listing                                                                                                           |
