@@ -48,7 +48,7 @@ Server SDKs & API Client Libraries
 | [OneSignal Go API](https://github.com/OneSignal/onesignal-go-api)                        |                                                                                                           |                                                                                                                              |
 | [OneSignal Java API](https://github.com/OneSignal/onesignal-java-client)                 |                                                                                                           |                                                                                                                              |
 | [OneSignal .NET API](https://github.com/OneSignal/onesignal-dotnet-api)                  |                                                                                                           |                                                                                                                              |
-| [OneSignal Alexa SDK](https://github.com/OneSignal/OneSignal-Alexa-Nodejs-SDK)           |                                                                                                           |                                                                                                                              |
+| [OneSignal Alexa Plugin](https://github.com/OneSignal/OneSignal-Alexa-Nodejs-SDK)           |                                                                                                           |                                                                                                                              |
 
 # Developer Tools
 
