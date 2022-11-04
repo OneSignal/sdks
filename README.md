@@ -52,6 +52,7 @@ Client SDKs for Cross-Platform Development Environments
 | [OneSignal React Native / Expo SDK](https://github.com/OneSignal/react-native-onesignal) | [OneSignal React Native/Expo Setup](https://documentation.onesignal.com/docs/react-native-sdk-setup) | [react-native-onesignal on npmjs](https://www.npmjs.com/package/react-native-onesignal)                                   |
 | [OneSignal Cordova SDK](https://github.com/OneSignal/OneSignal-Cordova-SDK)              | [OneSignal Cordova Setup](https://documentation.onesignal.com/docs/cordova-sdk-setup)                | [onesignal-cordova-plugin on npmjs](https://www.npmjs.com/package/onesignal-cordova-plugin)                               |
 | [OneSignal Flutter SDK](https://github.com/OneSignal/OneSignal-Flutter-SDK)              | [OneSignal Flutter Setup](https://documentation.onesignal.com/docs/flutter-sdk-setup)                | [onesignal\_flutter on pub.dev](https://pub.dev/packages/onesignal_flutter)                                               |
+| [OneSignal DotNet SDK]()                                                                 | [OneSignal DotNet Setup](https://documentation.onesignal.com/docs/net-sdk-setup)                     | [OneSignalSDK.DotNet on Nuget](https://www.nuget.org/packages/OneSignalSDK.DotNet)                                        |
 
 
 # Server SDKs
