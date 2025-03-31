@@ -62,7 +62,7 @@ Server SDKs & API Client Libraries
 | Platform                                                                      | Getting Started Guide | SDK/Plugin Listing                                                                     |
 | ----------------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------------- |
 | [OneSignal Node API](https://github.com/OneSignal/node-onesignal)             |                       | [node-onesignal on npmjs](https://www.npmjs.com/package/@onesignal/node-onesignal)     |
-| [OneSignal Go API](https://github.com/OneSignal/onesignal-go-api)             |                       | [onesignal on pkg.go.dev](https://pkg.go.dev/github.com/OneSignal/onesignal-go-api)    |
+| [OneSignal Go API](https://github.com/OneSignal/onesignal-go-api)             |                       | [onesignal on pkg.go.dev](https://pkg.go.dev/github.com/OneSignal/onesignal-go-api/v2) |
 | [OneSignal Java API](https://github.com/OneSignal/onesignal-java-api)         |                       |                                                                                        |
 | [OneSignal .NET API](https://github.com/OneSignal/onesignal-dotnet-api)       |                       | [OneSignalApi on nuget](https://www.nuget.org/packages/OneSignalApi)                   |
 | [OneSignal Rust API](https://github.com/OneSignal/onesignal-rust-api)         |                       |                                                                                        |
