@@ -70,7 +70,6 @@ Server SDKs & API Client Libraries
 | [OneSignal CPP API](https://github.com/OneSignal/onesignal-cpp-api)           |                       |                                                                                        |
 | [OneSignal Python API](https://github.com/OneSignal/onesignal-python-api)     |                       | [onesignal on pip](https://pypi.org/project/onesignal-python-api/)                     |
 | [OneSignal PHP API](https://github.com/OneSignal/onesignal-php-api)           |                       | [onesignal on packagist](https://packagist.org/packages/onesignal/onesignal-php-api)                                                                                       |
-| [OneSignal Rails Plugin](https://github.com/OneSignal/onesignal-rails-plugin) |                       | [onesignal-rails-plugin on rubygems](https://rubygems.org/gems/onesignal-rails-plugin) |
 
 # Developer Tools
 
@@ -78,13 +77,14 @@ CLI Tools, IDE & Build Plugins
 
 | Platform                                                                                        | Getting Started Guide                                                                                   | SDK/Plugin Listing |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------ |
-| [OneSignal Android Studio Plugin](https://github.com/OneSignal/onesignal-android-studio-plugin) |                                                                                                         |                    |
 | [OneSignal Expo EAS Plugin](https://github.com/OneSignal/onesignal-expo-plugin)                 | [OneSignal Expo EAS Plugin Setup](https://documentation.onesignal.com/docs/react-native-expo-sdk-setup) |                    |
-| [OneSignal Gradle Plugin](https://github.com/OneSignal/OneSignal-Gradle-Plugin)                 |                                                                                                         |                    |
-| [OneSignal CLI](https://github.com/OneSignal/onesignal-cli)                                     |                                                                                                         |                    |
 
 # Deprecated
 
-| Platform                                                                          | Date               |
-| :-------------------------------------------------------------------------------- | ------------------ |
-| [OneSignal Alexa Plugin](https://github.com/OneSignal/OneSignal-Alexa-Nodejs-SDK) | <INSERT DATE HERE> |
+| Platform                                                                                        | Date               |
+| :---------------------------------------------------------------------------------------------- | ------------------ |
+| [OneSignal Alexa Plugin](https://github.com/OneSignal/OneSignal-Alexa-Nodejs-SDK)               | September 29, 2022 |
+| [OneSignal Gradle Plugin](https://github.com/OneSignal/OneSignal-Gradle-Plugin)                 | October 31, 2022   |
+| [OneSignal CLI](https://github.com/OneSignal/onesignal-cli)                                     | May 13, 2025       |
+| [OneSignal Android Studio Plugin](https://github.com/OneSignal/onesignal-android-studio-plugin) | May 13, 2025       |
+| [OneSignal Rails Plugin](https://github.com/OneSignal/onesignal-rails-plugin)                   | May 13, 2025       |
