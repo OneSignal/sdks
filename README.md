@@ -59,17 +59,17 @@ Client SDKs for Cross-Platform Development Environments
 
 Server SDKs & API Client Libraries
 
-| Platform                                                                      | Getting Started Guide | SDK/Plugin Listing                                                                     |
-| ----------------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------------- |
-| [OneSignal Node API](https://github.com/OneSignal/node-onesignal)             |                       | [node-onesignal on npmjs](https://www.npmjs.com/package/@onesignal/node-onesignal)     |
-| [OneSignal Go API](https://github.com/OneSignal/onesignal-go-api)             |                       | [onesignal on pkg.go.dev](https://pkg.go.dev/github.com/OneSignal/onesignal-go-api/v2) |
-| [OneSignal Java API](https://github.com/OneSignal/onesignal-java-api)         |                       |                                                                                        |
-| [OneSignal .NET API](https://github.com/OneSignal/onesignal-dotnet-api)       |                       | [OneSignalApi on nuget](https://www.nuget.org/packages/OneSignalApi)                   |
-| [OneSignal Rust API](https://github.com/OneSignal/onesignal-rust-api)         |                       | [onesignal on crates.io](https://crates.io/crates/onesignal-rust-api)                                                                                       |
-| [OneSignal Ruby API](https://github.com/OneSignal/onesignal-ruby-api)         |                       | [onesignal on rubygems](https://rubygems.org/gems/onesignal)                           |
-| [OneSignal CPP API](https://github.com/OneSignal/onesignal-cpp-api)           |                       |                                                                                        |
-| [OneSignal Python API](https://github.com/OneSignal/onesignal-python-api)     |                       | [onesignal on pip](https://pypi.org/project/onesignal-python-api/)                     |
-| [OneSignal PHP API](https://github.com/OneSignal/onesignal-php-api)           |                       | [onesignal on packagist](https://packagist.org/packages/onesignal/onesignal-php-api)                                                                                       |
+| Platform                                                                      | Getting Started Guide | SDK/Plugin Listing                                                                                               |
+| ----------------------------------------------------------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [OneSignal Node API](https://github.com/OneSignal/node-onesignal)             |                       | [node-onesignal on npmjs](https://www.npmjs.com/package/@onesignal/node-onesignal)                               |
+| [OneSignal Go API](https://github.com/OneSignal/onesignal-go-api)             |                       | [onesignal on pkg.go.dev](https://pkg.go.dev/github.com/OneSignal/onesignal-go-api/v2)                           |
+| [OneSignal Java API](https://github.com/OneSignal/onesignal-java-api)         |                       | [onesignal on maven central](https://central.sonatype.com/artifact/com.onesignal/onesignal-java-client/overview) |
+| [OneSignal .NET API](https://github.com/OneSignal/onesignal-dotnet-api)       |                       | [OneSignalApi on nuget](https://www.nuget.org/packages/OneSignalApi)                                             |
+| [OneSignal Rust API](https://github.com/OneSignal/onesignal-rust-api)         |                       | [onesignal on crates.io](https://crates.io/crates/onesignal-rust-api)                                            |
+| [OneSignal Ruby API](https://github.com/OneSignal/onesignal-ruby-api)         |                       | [onesignal on rubygems](https://rubygems.org/gems/onesignal)                                                     |
+| [OneSignal CPP API](https://github.com/OneSignal/onesignal-cpp-api)           |                       |                                                                                                                  |
+| [OneSignal Python API](https://github.com/OneSignal/onesignal-python-api)     |                       | [onesignal on pip](https://pypi.org/project/onesignal-python-api/)                                               |
+| [OneSignal PHP API](https://github.com/OneSignal/onesignal-php-api)           |                       | [onesignal on packagist](https://packagist.org/packages/onesignal/onesignal-php-api)                             |
 
 # Developer Tools
 
